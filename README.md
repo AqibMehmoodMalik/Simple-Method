@@ -1,4 +1,4 @@
-# Simple-Method
+# Method in java 
 This program is simply based on concept, logic and syntax of method  
 class method{
     public int sum(int a,int b){
